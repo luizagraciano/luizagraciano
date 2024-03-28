@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luiza Graciano</h1>
-<p align="center">I’m a Computer Science Licentiate student at UFRPE. Being a licentiate student allows me to not only build my software development habilities and technical skills but also my teaching capacities. I'm currently enrolled in a QA program and studying both manual and automated tests.</p>
-
+<p align="left">I’m a Computer Science Licentiate student at UFRPE. Being a licentiate student allows me to not only build my software development habilities and technical skills but also my teaching capacities.</p>
+<p align="left">I'm currently enrolled in a QA program and studying both manual and automated tests.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luiza-graciano-43057611b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiza-graciano-43057611b" height="30" width="40" /></a>
