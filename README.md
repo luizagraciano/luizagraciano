@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiza Graciano</h1>
-<h3 align="center">I’m a Computer Science Licentiate student at UFRPE. Being a licentiate student allows me to not only build my software development habilities and technical skills but also my teaching capacities. I'm currently enrolled in a QA program and studying both manual and automated tests.</h3>
+<p align="center">I’m a Computer Science Licentiate student at UFRPE. Being a licentiate student allows me to not only build my software development habilities and technical skills but also my teaching capacities. I'm currently enrolled in a QA program and studying both manual and automated tests.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
